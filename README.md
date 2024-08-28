@@ -119,6 +119,7 @@ chrome://version/
 
 4. Разархивируйте скачанный файл. Создайте на диске `C:` папку `webdrivers` и положите разархивированный ранее файл `chromedriver.exe` в папку `C:\webdrivers`.
 Добавьте в системную переменную `PATH` папку `C:\webdrivers`
+
 ![image](https://github.com/albnsp/selenium-java-test/assets/144931244/8a79ce44-08d0-462c-8e8e-fe6c1eb73a25)
 
 
